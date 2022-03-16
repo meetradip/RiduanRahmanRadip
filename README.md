@@ -8,14 +8,14 @@
 
 <br />
 
-Hi, I'm [Waliul Islam Alif](https://), a passionate self-taught experienced flutter app developer and a freelance software developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Riduan Rahman Radip](https://), a passionate self-taught experienced flutter app developer and a freelance software developer from Bangladesh. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
   
-- 💼 Any freelance work? Reach me via [email](mailto:wiasitemail@gmail.com) :)
+- 💼 Any freelance work? Reach me via [email](mailto:unstablebengali@gmail.com) :)
 - 🔭 I’m currently working on [Snapshot](https://github.com/WaliulIslamAlif/snapshot)
 
-- 🌱 I’m currently preparing for my **University admission test**. So I will be less productive than previous sessions.
+- 🌱 I’m currently preparing for my **ssc examination - 2022**. So I will be less productive than previous sessions.
 
 - 💬 Ask me about anything, I am always happy to help;
 
